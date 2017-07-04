@@ -12,7 +12,7 @@ const routes: Routes = [
     children: []
   },
   {
-    path: 'aux1',
+    path: 'aux1/:id1/:id2',
     component: Auxiliar1Component
   },
     {
